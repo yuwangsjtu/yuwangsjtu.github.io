@@ -54,7 +54,7 @@ experiences:
   - 123
   - 456
 
-  
+
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 # skills:
@@ -132,4 +132,7 @@ highlight_name: true
 Dr. Yu Wang is an Associate Professor at Cooperative Medianet Incorporative Center (CMIC), Shanghai Jiao Tong Univserity (SJTU). He was a Senior Research Associate working in the Speech Group of the [Machine Intelligence Laboratory](http://svr-www.eng.cam.ac.uk/), University of Cambridge when he was working with [Prof. Mark Gales](http://mi.eng.cam.ac.uk/~mjfg/), [Prof. Phil Woodland](http://mi.eng.cam.ac.uk/~pcw/) and [Dr. Kate Knill](http://mi.eng.cam.ac.uk/~kmk/). He obtained his Bachelor degree at Huazhong University of Science and Technology and his Master degree at Imperial College London. Following that, he did his PhD study in Audio Signal Processing in the [Speech and Audio Processing Laboratory](https://www.commsp.ee.ic.ac.uk/~sap) at Imperial College London and obtained his PhD degree in August, 2015, supervised by [Mike Brookes](http://www.ee.ic.ac.uk/hp/staff/dmb/dmb.html). Following his graduation of PhD, he joined University of Cambridge as a Research Associate and started to work as a key member on the [Automated Language Teaching and Assessment (ALTA) project](http://alta.cambridgeenglish.org/) (funded by [Cambridge Assessment](https://www.cambridgeassessment.org.uk/)). We publised an end-to-end deep learning-based automatic spoken language assessment platform [Speak&Improve](https://speakandimprove.com/) in 2019 and it is now offcially suggested as the practising platform for Cambridge Linguskill international English test. Since 2019, he started to work on the [Machine Translation for English Retrieval of Information in Any Language (MATERIAL) project](https://www.iarpa.gov/index.php/research-programs/material) (funded by IARPA), on which he was the technical lead for the spoken language processing contribution at CUED. He joined SJTU in December 2020. His current research interests focus on Speech and Audio Processing, Natural Language Processing and Multi-modal Information Processing and Understanding.
 
 He is a member of IEEE, ISCA and a regular reviewer of major speech and language processing related journals conferences. He has also served as the session chairs for major conferences in speech and language processing incuding ICASSP, INTERSPEECH and ASRU.
+
+### Experiences
+
 {style="text-align: justify;"}
