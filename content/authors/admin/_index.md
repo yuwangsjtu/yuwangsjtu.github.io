@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Yu Wang 王钰
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yu
+last_name: Wang
 
 # Status emoji
 status:
@@ -17,74 +17,78 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Associate Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Shanghai Jiao Tong University
+    url: https://sjtu.edu.cn/
+  - name: Cooperative Medianet Innovation Center (CMIC)
+    url: https://cmic.sjtu.edu.cn/
+  - name: Shanghai Artificial Intelligence Laboratory
+    url: https://www.shlab.org.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: ''
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Natural Language Processing
+  - Speech and Language
+  - Multimedia Computing
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Doctor of Philosophy
+      institution: Imperial College London, Department of EEE
+      year: 2011 – 2015
+    - course: Master of Science (MSc)
+      institution: Imperial College London, Department of EEE
+      year: 2009 – 2010
+    - course: Bachelor of Engineering (BEng)
+      institution: Huazhong University of Science and Technology, Department of EIE
+      year: 2005 – 2009
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+# skills:
+#   - name: Technical
+#     items:
+#       - name: Python
+#         description: ''
+#         percent: 80
+#         icon: python
+#         icon_pack: fab
+#       - name: Data Science
+#         description: ''
+#         percent: 100
+#         icon: chart-line
+#         icon_pack: fas
+#       - name: SQL
+#         description: ''
+#         percent: 40
+#         icon: database
+#         icon_pack: fas
+#   - name: Hobbies
+#     color: '#eeac02'
+#     color_border: '#f0bf23'
+#     items:
+#       - name: Hiking
+#         description: ''
+#         percent: 60
+#         icon: person-hiking
+#         icon_pack: fas
+#       - name: Cats
+#         description: ''
+#         percent: 100
+#         icon: cat
+#         icon_pack: fas
+#       - name: Photography
+#         description: ''
+#         percent: 80
+#         icon: camera-retro
+#         icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -93,32 +97,34 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: 'mailto:yuwangsjtu@sjtu.edu.cn'
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GeorgeCushen
+  #   label: Follow me on Twitter
+  #   display:
+  #     header: true
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=O7_F8k0AAAAJ
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/gcushen
+  # - icon: linkedin
+  #   icon_pack: fab
+  #   link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Yu Wang is an Associate Professor at Cooperative Medianet Incorporative Center (CMIC), Shanghai Jiao Tong Univserity (SJTU). He was a Senior Research Associate working in the Speech Group of the [Machine Intelligence Laboratory](http://svr-www.eng.cam.ac.uk/), University of Cambridge when he was working with [Prof. Mark Gales](http://mi.eng.cam.ac.uk/~mjfg/), [Prof. Phil Woodland](http://mi.eng.cam.ac.uk/~pcw/) and [Dr. Kate Knill](http://mi.eng.cam.ac.uk/~kmk/). He obtained his Bachelor degree at Huazhong University of Science and Technology and his Master degree at Imperial College London. Following that, he did his PhD study in Audio Signal Processing in the [Speech and Audio Processing Laboratory](https://www.commsp.ee.ic.ac.uk/~sap) at Imperial College London and obtained his PhD degree in August, 2015, supervised by [Mike Brookes](http://www.ee.ic.ac.uk/hp/staff/dmb/dmb.html). Following his graduation of PhD, he joined University of Cambridge as a Research Associate and started to work as a key member on the [Automated Language Teaching and Assessment (ALTA) project](http://alta.cambridgeenglish.org/) (funded by [Cambridge Assessment](https://www.cambridgeassessment.org.uk/)). We publised an end-to-end deep learning-based automatic spoken language assessment platform [Speak&Improve](https://speakandimprove.com/) in 2019 and it is now offcially suggested as the practising platform for Cambridge Linguskill international English test. Since 2019, he started to work on the [Machine Translation for English Retrieval of Information in Any Language (MATERIAL) project](https://www.iarpa.gov/index.php/research-programs/material) (funded by IARPA), on which he was the technical lead for the spoken language processing contribution at CUED. He joined SJTU in December 2020. His current research interests focus on Speech and Audio Processing, Natural Language Processing and Multi-modal Information Processing and Understanding.
+
+He is a member of IEEE, ISCA and a regular reviewer of major speech and language processing related journals conferences. He has also served as the session chairs for major conferences in speech and language processing incuding ICASSP, INTERSPEECH and ASRU.
 {style="text-align: justify;"}
