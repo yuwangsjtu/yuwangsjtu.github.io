@@ -134,5 +134,8 @@ Dr. Yu Wang is an Associate Professor at Cooperative Medianet Incorporative Cent
 He is a member of IEEE, ISCA and a regular reviewer of major speech and language processing related journals conferences. He has also served as the session chairs for major conferences in speech and language processing incuding ICASSP, INTERSPEECH and ASRU.
 
 ### Experiences
+- 1
+- 2
+- 3
 
 {style="text-align: justify;"}
