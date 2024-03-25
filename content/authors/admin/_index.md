@@ -50,6 +50,11 @@ education:
       institution: Huazhong University of Science and Technology, Department of EIE
       year: 2005 – 2009
 
+experiences:
+  - 123
+  - 456
+
+  
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 # skills:
