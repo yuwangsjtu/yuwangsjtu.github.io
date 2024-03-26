@@ -51,8 +51,8 @@ education:
       year: 2005 – 2009
 
 experiences:
-  - 123
-  - 456
+  - 2019 - 2020, Senior Research Associate, Machine Intelligence Laboratory, University of Cambridge 
+  - 2015 - 2019, Research Associate, Machine Intelligence Laboratory, University of Cambridge
 
 
 # Skills
