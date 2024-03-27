@@ -133,8 +133,8 @@ highlight_name: true
 
 
 ### Positions
-##### - 2020 - Present, Associate Professor, Cooperative Medianet Incorporative Center, Shanghai Jiao Tong University
-##### - 2019 - 2020, Senior Research Associate, Machine Intelligence Laboratory, University of Cambridge 
-##### - 2015 - 2019, Research Associate, Machine Intelligence Laboratory, University of Cambridge
+##### - 2020 - Present, Associate Professor, Cooperative Medianet Incorporative Center,<br>Shanghai Jiao Tong University
+##### - 2019 - 2020, Senior Research Associate, Machine Intelligence Laboratory,<br>University of Cambridge 
+##### - 2015 - 2019, Research Associate, Machine Intelligence Laboratory,<br/>University of Cambridge
 
 {style="text-align: justify;"}
