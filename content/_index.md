@@ -130,7 +130,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: News
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -192,7 +192,7 @@ sections:
   # - block: collection
   #   id: featured
   #   content:
-  #     title: Featured Publications
+  #     title: Recent Publications
   #     filters:
   #       folders:
   #         - publication
