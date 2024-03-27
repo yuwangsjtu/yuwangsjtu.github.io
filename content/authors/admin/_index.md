@@ -21,11 +21,11 @@ role: Associate Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
+  - name: CMIC & Dept of EE
+    url: https://cmic.sjtu.edu.cn/
   - name: Shanghai Jiao Tong University
     url: https://sjtu.edu.cn/
-  - name: Cooperative Medianet Innovation Center (CMIC)
-    url: https://cmic.sjtu.edu.cn/
-  - name: Shanghai Artificial Intelligence Laboratory
+  - name: Shanghai AI Laboratory
     url: https://www.shlab.org.cn/
 
 # Short bio (displayed in user profile at end of posts)
