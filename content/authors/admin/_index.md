@@ -21,7 +21,7 @@ role: Associate Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: CMIC & Dept of EE
+  - name: CMIC & EE Dept. 
     url: https://cmic.sjtu.edu.cn/
   - name: Shanghai Jiao Tong University
     url: https://sjtu.edu.cn/
@@ -129,12 +129,12 @@ social:
 highlight_name: true
 ---
 
-##### Yu Wang is an Associate Professor at Cooperative Medianet Incorporative Center (CMIC), Shanghai Jiao Tong Univserity (SJTU). Prior to SJTU, he was a Senior Research Associate working in the [Machine Intelligence Laboratory](http://svr-www.eng.cam.ac.uk/) of CUED at University of Cambridge. He was working with [Prof. Mark Gales](http://mi.eng.cam.ac.uk/~mjfg/), [Prof. Phil Woodland](http://mi.eng.cam.ac.uk/~pcw/) and [Dr. Kate Knill](http://mi.eng.cam.ac.uk/~kmk/). He obtained his PhD study in Speech Signal Processing in the [Speech and Audio Processing Laboratory](https://www.imperial.ac.uk/speech-audio-processing) at Imperial College London, supervised by [Mike Brookes](http://www.ee.ic.ac.uk/hp/staff/dmb/dmb.html). Following his graduation of PhD, he joined University of Cambridge as a Research Associate and started to work as a key member on the [Automated Language Teaching and Assessment (ALTA) project](http://alta.cambridgeenglish.org/) (funded by [Cambridge Assessment](https://www.cambridgeassessment.org.uk/)). We publised an end-to-end deep learning-based automatic spoken language assessment platform [Speak&Improve](https://speakandimprove.com/) in 2019 and it is now offcially suggested as the practising platform for Cambridge Linguskill international English test. Since 2019, he started to work on the [Machine Translation for English Retrieval of Information in Any Language (MATERIAL) project](https://www.iarpa.gov/index.php/research-programs/material) (funded by IARPA), on which he was the technical lead for the spoken language processing contribution at CUED. His current research interests focus on Natural Language Processing, Multi-modal Dialogue System and Large Langage Model.
+<span style="color:#fff; font-family: 'Bebas Neue'; font-size: 4em;">Yu Wang is an Associate Professor at Cooperative Medianet Incorporative Center (CMIC), Shanghai Jiao Tong Univserity (SJTU). Prior to SJTU, he was a Senior Research Associate working in the [Machine Intelligence Laboratory](http://svr-www.eng.cam.ac.uk/) of CUED at University of Cambridge. He was working with [Prof. Mark Gales](http://mi.eng.cam.ac.uk/~mjfg/), [Prof. Phil Woodland](http://mi.eng.cam.ac.uk/~pcw/) and [Dr. Kate Knill](http://mi.eng.cam.ac.uk/~kmk/). He obtained his PhD study in Speech Signal Processing in the [Speech and Audio Processing Laboratory](https://www.imperial.ac.uk/speech-audio-processing) at Imperial College London, supervised by [Mike Brookes](http://www.ee.ic.ac.uk/hp/staff/dmb/dmb.html). Following his graduation of PhD, he joined University of Cambridge as a Research Associate and started to work as a key member on the [Automated Language Teaching and Assessment (ALTA) project](http://alta.cambridgeenglish.org/) (funded by [Cambridge Assessment](https://www.cambridgeassessment.org.uk/)). We publised an end-to-end deep learning-based automatic spoken language assessment platform [Speak&Improve](https://speakandimprove.com/) in 2019 and it is now offcially suggested as the practising platform for Cambridge Linguskill international English test. Since 2019, he started to work on the [Machine Translation for English Retrieval of Information in Any Language (MATERIAL) project](https://www.iarpa.gov/index.php/research-programs/material) (funded by IARPA), on which he was the technical lead for the spoken language processing contribution at CUED. His current research interests focus on Natural Language Processing, Multi-modal Dialogue System and Large Langage Model.</span>
 
 
 ### Positions
-##### - 2020 - Present, Associate Professor, Cooperative Medianet Incorporative Center,<br>Shanghai Jiao Tong University
-##### - 2019 - 2020, Senior Research Associate, Machine Intelligence Laboratory,<br>University of Cambridge 
-##### - 2015 - 2019, Research Associate, Machine Intelligence Laboratory,<br/>University of Cambridge
+- 2020 - Present, Associate Professor, Cooperative Medianet Incorporative Center,<br>Shanghai Jiao Tong University
+- 2019 - 2020, Senior Research Associate, Machine Intelligence Laboratory,<br>University of Cambridge 
+- 2015 - 2019, Research Associate, Machine Intelligence Laboratory,<br/>University of Cambridge
 
 {style="text-align: justify;"}
