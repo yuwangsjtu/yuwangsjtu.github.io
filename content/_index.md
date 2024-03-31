@@ -171,10 +171,12 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Retrieval Augmented Generation
+          tag: RAG
+        - name: Multimodal Perception and Dialouge
+          tag: Multimodal
+        - name: Large Language Model
+          tag: LLM
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
