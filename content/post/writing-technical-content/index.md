@@ -2,13 +2,13 @@
 title: Writing technical content in Markdown
 date: 2019-07-12
 math: true
+draft: true
 image:
   placement: 2
   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 
-# Is this an unpublished draft?
-draft: true
+
 
 Hugo Blox Builder is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.
 
