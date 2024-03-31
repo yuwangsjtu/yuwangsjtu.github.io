@@ -205,7 +205,7 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Publications
+      title: Recent Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -249,7 +249,7 @@ sections:
         region: ''
         postcode: '200240'
         country: China
-      directions: Enter SEIEE Building 5 and take the stairs to Office 303A on Floor 3
+      directions: 303A, SEIEE Building 5, Minghang Campus
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
