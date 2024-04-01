@@ -1,20 +1,20 @@
 ---
-title: Multimodal Perception and Dialouge
-summary: An example of Multimodal Perception and Dialouge project page.
+title: Video-grounded Dialogue Generate
+summary: The Video-grounded Dialogues task is to answer questions based on the content of the video and the dialogue history.
 tags:
   - Multimodal
-date: '2016-04-27T00:00:00Z'
+date: '2024-04-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: The overview of the Video-grounded Dialogue Generate.
   focal_point: Smart
 
 links:
 url_code: ''
-url_pdf: ''
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/10447469?casa_token=p9GDnq-0AXwAAAAA:5rRFFt6F-DRonrNzbXIxJNzQ4NWNqoZQebF2n214DRY5hcHIY6WY0xNVE94YDTLpe87f5N6AQn4a'
 url_slides: ''
 url_video: ''
 
