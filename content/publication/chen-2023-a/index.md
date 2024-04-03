@@ -3,7 +3,7 @@ title: 'DialogMCF: Multimodal Context Flow for Audio Visual Scene-Aware Dialog'
 authors:
 - Zhe Chen
 - Hongcheng Liu
-- Yu Wang
+- admin
 date: '2023-01-01'
 publishDate: '2024-04-03T06:24:20.914705Z'
 publication_types:

@@ -6,7 +6,7 @@ authors:
 - Wenqi Shao
 - Runjian Chen
 - Hailong Shang
-- Yu Wang
+- admin
 - Yu Qiao
 - Kaipeng Zhang
 - Ping Luo

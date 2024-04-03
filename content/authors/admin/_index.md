@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yu Wang 王钰
+title: Yu Wang
 
 # Name pronunciation (optional)
 name_pronunciation: ''
