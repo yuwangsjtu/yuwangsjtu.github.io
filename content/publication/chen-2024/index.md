@@ -14,6 +14,6 @@ authors:
 date: '2024-01-01'
 publishDate: '2024-04-03T06:24:21.043547Z'
 publication_types:
-- article-journal
+- article
 publication: '*arXiv preprint arXiv:2403.14168*'
 ---
