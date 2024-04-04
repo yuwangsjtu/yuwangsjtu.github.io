@@ -209,7 +209,7 @@ sections:
         {{% /callout %}}
       filters:
         folders:
-          - Recent Publications (2023 Onwards)
+          - publication
         exclude_featured: true
     design:
       columns: '2'
