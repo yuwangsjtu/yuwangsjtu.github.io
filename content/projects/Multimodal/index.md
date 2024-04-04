@@ -1,7 +1,7 @@
 ---
 title: Multimodal Perception and Dialouge
 summary: Multimodal Perception and Dialouge
-tags:
+tag:
   - Multimodal
 date: '2024-04-27T00:00:00Z'
 
