@@ -200,7 +200,7 @@ sections:
   #     columns: '2'
   #     view: card
   - block: collection
-    id: publications
+    id: Recent Publications (2023 Onwards)
     content:
       title: Recent Publications (2023 Onwards)
       text: |-
