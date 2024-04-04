@@ -25,3 +25,5 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ''
 ---
+
+This is a multimodal page.
