@@ -202,14 +202,14 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Recent Publications
+      title: Recent Publications (2023 Onwards)
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
         {{% /callout %}}
       filters:
         folders:
-          - publication
+          - Recent Publications (2023 Onwards)
         exclude_featured: true
     design:
       columns: '2'
