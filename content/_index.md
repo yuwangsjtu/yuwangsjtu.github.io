@@ -171,11 +171,9 @@ sections:
         - name: Retrieval Augmented Generation
           tag: RAG
         - name: Multimodal Perception and Dialouge
-          tag: Multimodal
+          tag: MPD
         - name: Large Language Model
           tag: LLM
-        - name: Deep Learning
-          tag: Deep Learning
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
