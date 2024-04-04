@@ -66,20 +66,20 @@ sections:
           company: Cooperative Medianet Incorporative Center, Shanghai Jiao Tong University
           company_url: ''
           company_logo: sjtu
-          date_start: '2020-01-01'
+          date_start: '2020-12'
           date_end: ''
         - title: Senior Research Associate
           company: Machine Intelligence Laboratory, University of Cambridge
           company_url: ''
           company_logo: cambridge
-          date_start: '2019-01-01'
-          date_end: '2020-01-01'
+          date_start: '2019-09'
+          date_end: '2020-11'
         - title: Research Associate
           company: Machine Intelligence Laboratory, University of Cambridge
           company_url: ''
           company_logo: cambridge
-          date_start: '2015-01-01'
-          date_end: '2019-01-01'
+          date_start: '2015-08'
+          date_end: '2019-09'
     design:
       columns: '2'
   # - block: accomplishments
