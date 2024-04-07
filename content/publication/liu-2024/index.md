@@ -14,4 +14,11 @@ publication_types:
 - paper-conference
 publication: '*ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech
   and Signal Processing (ICASSP)*'
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `MPD` references `content/project/MPD/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+- MPD
 ---
