@@ -9,7 +9,7 @@ date: '2016-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: The illustration of multimodal dialogu.
+  caption: The illustration of multimodal dialogue.
   focal_point: Smart
 
 links:
