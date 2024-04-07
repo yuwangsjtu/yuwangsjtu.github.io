@@ -12,4 +12,6 @@ publication_types:
 - article
 tags: MPD
 publication: '*arXiv preprint arXiv:2402.11875*'
+projects:
+- MPD
 ---
