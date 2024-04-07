@@ -1,6 +1,6 @@
 ---
-title: MPD
-summary: MPD
+title: Multimodal dialogue and perception
+summary: Multimodal dialogue and perception enhance human-machine interaction by integrating various communication forms and sensory inputs for more natural and intuitive exchanges.
 tags:
   - MPD
 date: '2016-04-27T00:00:00Z'
