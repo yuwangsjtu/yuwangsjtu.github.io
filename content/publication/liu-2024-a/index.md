@@ -10,6 +10,6 @@ date: '2024-01-01'
 publishDate: '2024-04-03T06:24:20.994488Z'
 publication_types:
 - article
-tags: Multimodal
+tags: MPD
 publication: '*arXiv preprint arXiv:2402.11875*'
 ---
