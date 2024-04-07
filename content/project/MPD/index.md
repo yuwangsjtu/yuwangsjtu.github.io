@@ -34,7 +34,7 @@ The Multimodal Perception and Dialogue group specializes in advancing technologi
 
 In video dialogue technology, the group develops algorithms that allow for intelligent conversation based on video content. This involves understanding the visual context—identifying objects, actions, and the scene's overall narrative—to produce relevant and coherent dialogue responses. The approach is rooted in deep learning, enabling the processing of complex video data and fostering a human-like interaction model with machines.
 
-![Speech GPT](speech.jpg"The illustration of Speech GPT")
+{{< figure src="speech.jpg" caption="The illustration of Speech GPT" numbered="true" >}}
 On the speech recognition front, the focus is on enhancing the conversion of spoken language into text. By utilizing multimodal data, which includes auditory signals alongside visual cues like lip movements and facial expressions, the group aims to significantly improve speech recognition accuracy. This is particularly beneficial in noisy environments or when dealing with diverse accents and dialects. The strategies employed involve sophisticated neural network models and innovative training approaches designed to grasp the subtleties of spoken language through multiple data streams.
 
 Collectively, the efforts of the Multimodal Perception and Dialogue group are geared towards redefining the capabilities of machines in perceiving, understanding, and interacting with the world. The integration of video and audio signals opens new horizons for enhancing human-computer interaction and creating more accessible communication aids, potentially transforming numerous sectors including education, healthcare, and customer service.pharetra. Nulla congue rutrum magna a ornare.
