@@ -12,6 +12,11 @@ publication_types:
 - article
 tags: MPD
 publication: '*arXiv preprint arXiv:2402.11875*'
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `MPD` references `content/project/MPD/index.md`.
+#   Otherwise, set `projects: []`.
 projects:
 - MPD
 ---
