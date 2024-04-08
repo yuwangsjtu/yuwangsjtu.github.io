@@ -229,11 +229,11 @@ sections:
   #     title: Popular Topics
   #   design:
   #     columns: '2'
-  - block: collection
+  - block: teaching
     id: teaching
     content:
       title: Teaching
-      subtitle: 程序设计（荣誉） 人工智能专业（2022秋季 - present）<br> 程序设计思想与方法（C++）工科平台（2021秋季）
+      程序设计（荣誉） 人工智能专业（2022秋季 - present）<br> 程序设计思想与方法（C++）工科平台（2021秋季）
     design:
       columns: '2'
   - block: contact
