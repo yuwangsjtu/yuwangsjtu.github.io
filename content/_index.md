@@ -236,7 +236,7 @@ sections:
       - title: 程序设计（荣誉）  人工智能专业（2022秋季 - present）
       - title: 程序设计思想与方法（C++）   工科平台（2021秋季）
     design:
-      columns: '2'
+      columns: '1'
   - block: contact
     id: contact
     content:
