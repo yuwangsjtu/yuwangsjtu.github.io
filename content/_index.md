@@ -230,7 +230,6 @@ sections:
   #   design:
   #     columns: '2'
   - block: experience
-    id: teaching
     content:
       title: Teaching
       items:
