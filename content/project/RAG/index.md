@@ -1,6 +1,6 @@
 ---
 title: Retrieval-Augmented Generation
-summary:Retrieval-Augmented Generation (RAG) technology enhances natural language generation by incorporating information retrieved from a large database or documents, thus improving the relevance and accuracy of the generated content.
+summary: Retrieval-Augmented Generation (RAG) technology enhances natural language generation by incorporating information retrieved from a large database or documents, thus improving the relevance and accuracy of the generated content.
 tags:
   - RAG
 date: '2016-04-27T00:00:00Z'
