@@ -229,7 +229,7 @@ sections:
   #     title: Popular Topics
   #   design:
   #     columns: '2'
-  - block: teaching
+  - block: experience
     id: teaching
     content:
       title: Teaching
