@@ -238,7 +238,7 @@ sections:
       - title: 程序设计思想与方法（C++）
         company: 工科平台（2021秋季）
     design:
-      columns: '1'
+      columns: '2'
   - block: contact
     id: contact
     content:
