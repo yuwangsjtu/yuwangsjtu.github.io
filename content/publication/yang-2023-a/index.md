@@ -11,4 +11,6 @@ publishDate: '2024-04-03T06:24:20.963630Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 31st ACM International Conference on Multimedia*'
+projects:
+- MPD
 ---
