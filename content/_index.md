@@ -206,7 +206,7 @@ sections:
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
-        * indicates corresponding authors
+        \* indicates corresponding authors
         {{% /callout %}}
       filters:
         folders:
