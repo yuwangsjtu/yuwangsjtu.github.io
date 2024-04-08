@@ -229,6 +229,30 @@ sections:
   #     title: Popular Topics
   #   design:
   #     columns: '2'
+    - block: experience
+    content:
+      title: Experience
+      # Date format for experience
+      #   Refer to https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Associate Professor
+          company: Cooperative Medianet Incorporative Center, Shanghai Jiao Tong University
+          company_url: ''
+          company_logo: sjtu
+          date_start: '2020-12-01'
+          date_end: ''
+        - title: Senior Research Associate
+          company: Machine Intelligence Laboratory, University of Cambridge
+          company_url: ''
+          company_logo: cambridge
+          date_start: '2019-09-01'
+          date_end: '2020-11-01'
   - block: contact
     id: contact
     content:
