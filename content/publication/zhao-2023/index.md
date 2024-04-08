@@ -10,4 +10,6 @@ publication_types:
 - paper-conference
 publication: '*ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech
   and Signal Processing (ICASSP)*'
+projects:
+- MPD
 ---
