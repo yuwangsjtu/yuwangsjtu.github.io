@@ -11,4 +11,6 @@ publishDate: '2024-04-03T06:24:20.920666Z'
 publication_types:
 - paper-conference
 publication: '*INTERSPEECH 2023*'
+projects:
+- RAG
 ---
