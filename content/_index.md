@@ -205,7 +205,7 @@ sections:
       title: Recent Publications (2023 Onwards)
       text: |-
         {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
+        Quickly discover relevant content by [filtering publications](./publication/). <br>
         \* indicates corresponding authors
         {{% /callout %}}
       filters:
@@ -231,6 +231,7 @@ sections:
   #   design:
   #     columns: '2'
   - block: experience
+    id: teaching
     content:
       title: Teaching
       date_format: Jan 2006
