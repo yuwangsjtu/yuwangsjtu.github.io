@@ -1,6 +1,6 @@
 ---
 title: Large Language Model
-summary: Large language models (LLMs) are advanced artificial intelligence systems capable of understanding, generating, and engaging in human-like text-based conversations across a wide range of topics and languages. Our research focuses on： safety, hallucination evaluation and elimination, model compression, and medical applications.
+summary: Large language models (LLMs) are advanced artificial intelligence systems capable of understanding, generating, and engaging in human-like text-based conversations across a wide range of topics and languages. Our research focuses on： **safety**, **hallucination evaluation and elimination**, **model compression**, and **medical applications**.
 tags:
   - LLM
 date: '2016-04-27T00:00:00Z'
