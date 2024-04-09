@@ -4,7 +4,7 @@ authors:
 - Mengxi Chen
 - Jiangchao Yao
 - Linyu Xing
-- admin
+- Yu Wang*
 - Ya Zhang
 - Yanfeng Wang
 date: '2023-01-01'

@@ -4,7 +4,7 @@ title: Contrastive Learning Based ASR Robust Knowledge Selection For Spoken Dial
 authors:
 - Zhiyuan Zhu
 - Yusheng Liao
-- admin
+- Yu Wang*
 - Yunfeng Guan
 date: '2023-01-01'
 publishDate: '2024-04-03T06:24:20.920666Z'

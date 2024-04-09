@@ -4,7 +4,7 @@ title: Leveraging Diverse Modeling Contexts with Collaborating Learning for Neur
 authors:
 - Yusheng Liao
 - Yanfeng Wang
-- admin
+- Yu Wang*
 date: '2024-01-01'
 publishDate: '2024-04-03T06:24:21.024941Z'
 publication_types:

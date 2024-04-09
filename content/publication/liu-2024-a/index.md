@@ -4,7 +4,7 @@ title: 'M2K-VDG: Model-Adaptive Multimodal Knowledge Anchor Enhanced Video-groun
 authors:
 - Hongcheng Liu
 - Pingjie Wang
-- admin
+- Yu Wang*
 - Yanfeng Wang
 date: '2024-01-01'
 publishDate: '2024-04-03T06:24:20.994488Z'

@@ -3,7 +3,7 @@ title: Post-decoder Biasing for End-to-End Speech Recognition of Multi-turn Medi
   Interview
 authors:
 - Heyang Liu
-- admin
+- Yu Wang*
 - Yanfeng Wang
 date: '2024-01-01'
 publishDate: '2024-04-03T06:24:21.012890Z'
