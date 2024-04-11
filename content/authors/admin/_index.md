@@ -21,11 +21,15 @@ role: Associate Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: CMIC & EE Dept. 
+  - name: CMIC & EE Dept.
+    未来媒体网络协同创新中心
+    电子工程系
     url: https://cmic.sjtu.edu.cn/
   - name: Shanghai Jiao Tong University
+    上海交通大学
     url: https://sjtu.edu.cn/
   - name: Shanghai AI Laboratory
+    上海人工智能实验室
     url: https://www.shlab.org.cn/
 
 # Short bio (displayed in user profile at end of posts)
@@ -131,7 +135,7 @@ highlight_name: true
 
 Yu Wang is an Associate Professor at Cooperative Medianet Incorporative Center (CMIC), Shanghai Jiao Tong Univserity (SJTU). Prior to SJTU, he was a Senior Research Associate working in the [Machine Intelligence Laboratory](http://svr-www.eng.cam.ac.uk/), University of Cambridge. He was working with [Prof. Mark Gales](http://mi.eng.cam.ac.uk/~mjfg/), [Prof. Phil Woodland](http://mi.eng.cam.ac.uk/~pcw/) and [Dr. Kate Knill](http://mi.eng.cam.ac.uk/~kmk/). He obtained his PhD study in Speech Processing in the [Speech and Audio Processing Laboratory](https://www.imperial.ac.uk/speech-audio-processing) at Imperial College London, supervised by [Mike Brookes](http://www.ee.ic.ac.uk/hp/staff/dmb/dmb.html). Following his graduation of PhD, he joined University of Cambridge as a Research Associate and started to work as a key member on the [Automated Language Teaching and Assessment (ALTA) project](http://alta.cambridgeenglish.org/) (funded by [Cambridge Assessment](https://www.cambridgeassessment.org.uk/)), on which we released an end-to-end deep learning-based automatic spoken language assessment platform [Speak&Improve](https://speakandimprove.com/) in 2019 and it is now offcially suggested as the practising platform for Cambridge Linguskill international English test. Since 2019, he started to work on the [Machine Translation for English Retrieval of Information in Any Language (MATERIAL) project](https://www.iarpa.gov/index.php/research-programs/material) (funded by IARPA), on which he was the technical lead for the spoken language processing contribution at CUED. His current research interests focus on Natural Language Processing, Multi-modal Dialogue System and Large Langage Model.
 
-实验室长期诚邀计算机与电子信息领域的硕士、博士研究生，以及博士后研究人员。同时，我们也非常欢迎对科研有兴趣的本科生加入我们的研究团队。这里提供一个充满活力和创新的学习环境，你可以与优秀的同学们一起探索人工智能，共同学习和成长。如果您有意加入我们，请与<a href="mailto:yuwangsjtu@sjtu.edu.cn">王钰教授</a>取得联系。
+We cordially invite masters and doctoral students, as well as postdoctoral researchers in the fields of computer science and electronic information, to join our research group. Our group is also keen to welcome undergraduate students with a passion for AI research. Here, we offer a vibrant and innovative learning environment where you can explore AI with outstanding peers, learning and growing together. If you are interested in joining us, please <a href="mailto:yuwangsjtu@sjtu.edu.cn">contact me</a>.
 
 
 ### Positions
