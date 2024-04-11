@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yu Wang
+title: Yu Wang （王钰）
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -22,14 +22,10 @@ role: Associate Professor
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: CMIC & EE Dept.
-    未来媒体网络协同创新中心
-    电子工程系
     url: https://cmic.sjtu.edu.cn/
   - name: Shanghai Jiao Tong University
-    上海交通大学
     url: https://sjtu.edu.cn/
   - name: Shanghai AI Laboratory
-    上海人工智能实验室
     url: https://www.shlab.org.cn/
 
 # Short bio (displayed in user profile at end of posts)
