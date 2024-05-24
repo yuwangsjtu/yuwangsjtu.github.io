@@ -1,6 +1,5 @@
 ---
-title: 'M $^3$ AV: A Multimodal, Multigenre, and Multipurpose Audio-Visual Academic
-  Lecture Dataset'
+title: 'M $^3$ AV: A Multimodal, Multigenre, and Multipurpose Audio-Visual Academic Lecture Dataset'
 authors:
 - Zhe Chen
 - Heyang Liu
@@ -14,8 +13,8 @@ authors:
 date: '2024-01-01'
 publishDate: '2024-04-03T06:24:21.043547Z'
 publication_types:
-- article
+- paper-conference
 projects:
 - MPD
-publication: '*arXiv preprint arXiv:2403.14168*'
+publication: '*ACL 2024*'
 ---

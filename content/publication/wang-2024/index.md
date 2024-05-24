@@ -1,6 +1,5 @@
 ---
-title: 'MM-SAP: A Comprehensive Benchmark for Assessing Self-Awareness of Multimodal
-  Large Language Models in Perception'
+title: 'MM-SAP: A Comprehensive Benchmark for Assessing Self-Awareness of Multimodal Large Language Models in Perception'
 authors:
 - Yuhao Wang
 - Yusheng Liao
@@ -11,8 +10,8 @@ authors:
 date: '2024-01-01'
 publishDate: '2024-04-03T06:24:20.988338Z'
 publication_types:
-- article
-publication: '*arXiv preprint arXiv:2401.07529*'
+- paper-conference
+publication: '*ACL 2024*'
 projects:
 - LLM
 ---
