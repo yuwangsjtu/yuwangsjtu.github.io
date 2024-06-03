@@ -21,8 +21,7 @@ role: Associate Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: CMIC & EE Dept.
-    url: https://cmic.sjtu.edu.cn/
+  - name: School of Artificial Intelligence
   - name: Shanghai Jiao Tong University
     url: https://sjtu.edu.cn/
   - name: Shanghai AI Laboratory
