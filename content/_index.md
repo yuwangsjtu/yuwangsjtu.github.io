@@ -63,6 +63,12 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Associate Professor
+          company: School of Artificial Intelligence, Shanghai Jiao Tong University
+          company_url: ''
+          company_logo: sjtu
+          date_start: '2024-06-01'
+          date_end: ''
+        - title: Associate Professor
           company: Cooperative Medianet Incorporative Center, Shanghai Jiao Tong University
           company_url: ''
           company_logo: sjtu
