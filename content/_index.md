@@ -73,7 +73,7 @@ sections:
           company_url: ''
           company_logo: sjtu
           date_start: '2020-12-01'
-          date_end: ''
+          date_end: '2024-05-31'
         - title: Senior Research Associate
           company: Machine Intelligence Laboratory, University of Cambridge
           company_url: ''
