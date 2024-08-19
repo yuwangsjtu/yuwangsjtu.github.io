@@ -10,6 +10,6 @@ authors:
 date: '2022-01-01'
 publishDate: '2024-08-19T11:31:16.316795Z'
 publication_types:
-- article-journal
+- article
 publication: '*DCASE2022 Challenge, Technical report*'
 ---
