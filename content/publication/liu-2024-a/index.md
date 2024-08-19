@@ -1,6 +1,5 @@
 ---
-title: 'M2K-VDG: Model-Adaptive Multimodal Knowledge Anchor Enhanced Video-grounded
-  Dialogue Generation'
+title: 'M2K-VDG: Model-Adaptive Multimodal Knowledge Anchor Enhanced Video-grounded Dialogue Generation'
 authors:
 - Hongcheng Liu
 - Pingjie Wang
