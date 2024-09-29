@@ -9,6 +9,6 @@ authors:
 date: '2024-01-01'
 publishDate: '2024-08-19T11:31:16.357606Z'
 publication_types:
-- article
-publication: '*arXiv preprint arXiv:2405.20192*'
+- paper-conference
+publication: '*NeurIPS 2024*'
 ---
