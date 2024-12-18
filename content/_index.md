@@ -242,11 +242,16 @@ sections:
       title: Teaching
       date_format: Jan 2006
       items:
+        - title: 程序设计基础（荣誉）
+          company: 人工智能学院（致远工科） 80学时 4学分
+          company_url: ''
+          date_start: '2024-09-01'
+          date_end: ''
         - title: 程序设计（荣誉）
           company: 人工智能专业 80学时 4学分
           company_url: ''
           date_start: '2022-09-01'
-          date_end: ''
+          date_end: '2024-01-01'
         - title: 程序设计思想与方法（C++）
           company: 工科平台 80学时 4学分
           company_url: ''
