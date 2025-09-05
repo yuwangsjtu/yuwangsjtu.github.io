@@ -276,7 +276,7 @@ sections:
         region: ''
         postcode: '200030'
         country: China
-      directions: 315, School of Artificial Intelligence, Xuhui Campus
+      directions: Room 315, School of Artificial Intelligence, Xuhui Campus
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
