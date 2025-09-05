@@ -271,12 +271,12 @@ sections:
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       address:
-        street: 800 Dongchuan Road
+        street: 1954 Huashan Road, Shanghai Jiao Tong University
         city: Shanghai
         region: ''
-        postcode: '200240'
+        postcode: '200030'
         country: China
-      directions: 303A, SEIEE Building 5, Minghang Campus
+      directions: 315, School of Artificial Intelligence, Xuhui Campus
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
