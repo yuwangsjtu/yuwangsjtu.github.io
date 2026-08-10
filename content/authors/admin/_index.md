@@ -136,10 +136,10 @@ We cordially invite masters and doctoral students, as well as postdoctoral resea
 实验室长期诚邀计算机与电子信息领域的硕士、博士研究生，以及博士后研究人员。同时，我们也非常欢迎对科研有兴趣的本科生加入我们的研究团队。这里提供一个充满活力和创新的学习环境，你可以与优秀的同学们一起探索人工智能，共同学习和成长。如果您有意加入我们，<a href="mailto:yuwangsjtu@sjtu.edu.cn">请与我联系</a>。
 
 ### Positions
-- 2026 - Present Tenured Associate Professor, School of Artificial Intelligence,<br>Shanghai Jiao Tong University
-- 2024 - 2026, Tenure-track Associate Professor, School of Artificial Intelligence,<br>Shanghai Jiao Tong University
-- 2020 - 2024, Tenure-track Associate Professor, Cooperative Medianet Incorporative Center,<br>Shanghai Jiao Tong University
-- 2019 - 2020, Senior Research Associate, Machine Intelligence Laboratory,<br>University of Cambridge 
-- 2015 - 2019, Research Associate, Machine Intelligence Laboratory,<br/>University of Cambridge
+- 2026 - Present,  Tenured Associate Professor, School of Artificial Intelligence,<br>Shanghai Jiao Tong University
+- 2024 - 2026,  Tenure-track Associate Professor, School of Artificial Intelligence,<br>Shanghai Jiao Tong University
+- 2020 - 2024,  Tenure-track Associate Professor, Cooperative Medianet Incorporative Center,<br>Shanghai Jiao Tong University
+- 2019 - 2020,  Senior Research Associate, Machine Intelligence Laboratory,<br>University of Cambridge 
+- 2015 - 2019,  Research Associate, Machine Intelligence Laboratory,<br/>University of Cambridge
 
 {style="text-align: justify;"}
